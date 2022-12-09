@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MR-C0DER
+- 👋 Hi, I’m @Archit-Chaurasia
 - 👀 I’m interested in Graphic Designing and front-end coding
 - 🌱 I’m currently learning Node Js and Photoshop
 - 💞️ Comming soon
